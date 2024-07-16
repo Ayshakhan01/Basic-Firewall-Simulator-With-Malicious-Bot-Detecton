@@ -1,6 +1,6 @@
 # Basic Firewall Simulator With Malicious Bot Detecton
  
- Excited to share my latest project: a Python firewall simulator! 🚀
+🔥 Excited to share my latest project: a Python firewall simulator! 🚀
 
 As part of my semester mini-project, I embarked on a journey to delve into the fundamentals of network security. 🛡️ Armed with Python, I crafted a basic firewall from scratch, bypassing the use of any libraries. 🐍
 
