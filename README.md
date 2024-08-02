@@ -7,11 +7,11 @@ Network security is a critical concern, especially with the rising threats posed
 The simulator, developed using PyQt5 for its user interface, incorporates the Prophet library for forecasting potential threats and machine learning models for advanced bot detection. This combination of tools aims to streamline the detection process, providing network administrators with a flexible and efficient means to manage network security.
 ## Screenshots
 
-![GUI Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image1.png)
-![Prediction Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image5.png)
-![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image2.png)
-![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image3.png)
-![Bot Detection using Prophet](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image4.png)
+![GUI Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detecton/blob/main/images/image1.png)
+![Prediction Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detecton/blob/main/images/image5.png)
+![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detecton/blob/main/images/image2.png)
+![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detecton/blob/main/images/image3.png)
+![Bot Detection using Prophet](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detecton/blob/main/images/image4.png)
 
 ## Features
 
