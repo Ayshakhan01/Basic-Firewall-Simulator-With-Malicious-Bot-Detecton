@@ -5,7 +5,13 @@
 Network security is a critical concern, especially with the rising threats posed by malicious bots. Traditional manual methods of monitoring and blocking IP addresses are often inefficient and time-consuming. This project introduces a Basic Firewall Simulator with Malicious Bot Detection, designed to enhance the identification and management of malicious IP addresses.
 
 The simulator, developed using PyQt5 for its user interface, incorporates the Prophet library for forecasting potential threats and machine learning models for advanced bot detection. This combination of tools aims to streamline the detection process, providing network administrators with a flexible and efficient means to manage network security.
+## Screenshots
 
+![GUI Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image1.png)
+![Prediction Interface](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image5.png)
+![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image2.png)
+![Data Visualization](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image3.png)
+![Bot Detection using Prophet](https://github.com/Ayshakhan01/Basic-Firewall-Simulator-With-Malicious-Bot-Detection/blob/main/images/image4.png)
 
 ## Features
 
@@ -44,7 +50,8 @@ The simulator, developed using PyQt5 for its user interface, incorporates the Pr
 
 5. **Run the Simulator**:
     ```sh
-    sudo python3 firewall_simulator.py
+    cd GUI-Firewall-for-Windows-and-Linux--main
+    sudo python3 ipfirewalls.py
     ```
 
 ## Usage
